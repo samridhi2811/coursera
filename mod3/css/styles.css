@@ -10,12 +10,11 @@
 	font-size: 2em;
 }
 
-.nav-items {
+li {
 	border-bottom: black 1px solid;
-	text-align: center;
 }
 
-.nav-items:nth-child(3) {
+li:nth-child(3) {
 	border-bottom: 0px;
 }
 

@@ -1,0 +1,29 @@
+* {
+	font-family: 'Shippori Antique B1', sans-serif;
+}
+
+.navbar-default {
+	border: 2px black solid;
+}
+
+.navbar-header a {
+	font-size: 2em;
+}
+
+.nav-items {
+	border-bottom: black 1px solid;
+}
+
+#page-title {
+	font-size: 1.5em;
+}
+
+#sec-title {
+	padding-top: 10px;
+	font-size: 1.2em;
+}
+
+.main-section {
+	background-color: #eee;
+	margin: 0 10px;
+}

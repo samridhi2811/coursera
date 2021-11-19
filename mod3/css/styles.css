@@ -12,7 +12,8 @@
 
 .nav-items {
 	border-bottom: black 1px solid;
-	text-align: center;
+	border-width: 80%;
+	text-align: center !important;
 }
 
 .nav-items:nth-child(3) {
